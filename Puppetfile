@@ -37,16 +37,27 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "emacs"
 github "osx"
-github "firefox"
-github "virtualbox"
-github "flux"
-github "skype"
-github "vlc"
-github "iterm2"
-github "dropbox"
-github "steam"
-github "chrome"
+
 github "wget"
+github "emacs"
+github "iterm2"
+github "zsh"
+
+github "firefox"
+github "chrome"
+
+github "virtualbox"
+github "vagrant"
+
+github "flux"
+github "dropbox"
+github "googledrive"
+
+github "skype"
+
+github "vlc"
+github "steam"
 github "transmission"
+
+github "gpgtools"
